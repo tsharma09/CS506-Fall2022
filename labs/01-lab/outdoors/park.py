@@ -1,3 +1,12 @@
 def draw_park():
-    print("park not found")
+    print("park below")
+
+    print("                     ***     ***           ***                     ")
+    print("|           |        ***     ***   o       ***       o              ")
+    print("| - - - - - |         |       |   /|\\       |      /|\\    ^---^")
+    print("| - - - - - |         |       |    |        |       |  \ (=^.^=)")
+    print("|           |         |       |   / \\       |      / \\  \ (')(')_/")
+
+
     return
+draw_park()
